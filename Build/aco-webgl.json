@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ACO",
+"productVersion": "0.1",
+"dataUrl": "aco-webgl.data.unityweb",
+"wasmCodeUrl": "aco-webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "aco-webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
